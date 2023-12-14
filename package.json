@@ -1,0 +1,24 @@
+{
+  "name": "introduction-to-node-js",
+  "version": "1.0.0",
+  "description": "- Introduction to Node JS - Running JS Outside Browser   - Node REPL   - Node CLI - Common JS Modules   - Default Exports     - module.exports   - Named Exports     - exports   - Importing Modules     - requires() - Common JS Modules   - Default Exports     - module.exports   - Named Exports     - exports   - Importing Modules     - requires()",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KLPavani/basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KLPavani/basic/issues"
+  },
+  "homepage": "https://github.com/KLPavani/basic#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.6"
+  }
+}
